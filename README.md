@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-![一个20M的gif演示图](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
+![一个20M的gif演示图](http://pcycznk04.bkt.clouddn.com/love.gif)
 
 
 #视频演示地址
